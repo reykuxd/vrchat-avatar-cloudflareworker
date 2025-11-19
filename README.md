@@ -10,5 +10,5 @@ A **Cloudflare Worker** that fetches VRChat user avatars for your tracker or bot
 2. Enjoy
 
 ```bash
-git clone https://github.com/reykuxd/vrchat-avatar-proxy.git
-cd vrchat-avatar-proxy
+git clone https://github.com/reykuxd/vrchat-avatar-cloudflareworker.git
+cd vrchat-avatar-cloudflareworker
